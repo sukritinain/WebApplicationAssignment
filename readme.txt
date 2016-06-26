@@ -1,0 +1,1 @@
+Developed an online auction web application using Java, MySQL and Lucene. Project development uses a virtual machine (VM), which is based on Ubuntu Linux operating system. It has eBay XML auction data that is used for the project.
