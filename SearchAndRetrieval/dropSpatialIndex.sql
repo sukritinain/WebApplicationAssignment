@@ -1,0 +1,5 @@
+USE ad;
+
+DROP INDEX Coordinates_index ON XY;
+
+DROP TABLE IF EXISTS XY;
